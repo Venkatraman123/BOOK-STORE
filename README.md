@@ -1,1 +1,1 @@
-book store applixation using mern stack 
+book store application using mern stack 
